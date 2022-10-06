@@ -1,0 +1,9 @@
+IP: "a1.hg.mc-pixel.com"
+IP2: "A1"
+
+#SQL
+host: "localhost"
+port: "3306"
+db: "pixel"
+user: "root"
+pw: ""
